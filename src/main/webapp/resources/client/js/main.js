@@ -419,6 +419,7 @@
         });
     });
 
+    //see if user logged in or not
     function isLogin() {
         const navElement = $("#navbarCollapse");
         const childLogin = navElement.find('a.a-login');
