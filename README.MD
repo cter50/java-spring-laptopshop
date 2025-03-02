@@ -16,5 +16,4 @@ Tiktok “Hỏi Dân IT” :  https://www.tiktok.com/@hoidanit
 Fanpage “Hỏi Dân IT” : https://www.facebook.com/askITwithERIC/
 
 Udemy Hỏi Dân IT: https://www.udemy.com/user/eric-7039/
-![Laptop Shop Homepage](image.png)
-
+![image](https://github.com/user-attachments/assets/b2609d49-f9d8-431d-bd95-d3a1c9402f17)
